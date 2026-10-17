@@ -1,3 +1,5 @@
+alert("JavaScript loaded");
+
 const button = document.getElementById("connectBtn");
 const status = document.getElementById("status");
 
